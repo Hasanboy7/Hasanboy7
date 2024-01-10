@@ -1,4 +1,4 @@
-<h1>Foydalanuvch:<span style='font-size='20px'>Mamatkarimov Hasanboy</span></h1>
+<h1>Foydalanuvch:<h3>Mamatkarimov Hasanboy</h3></h1>
 
 Salom ! 
 <p align="center">
