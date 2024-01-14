@@ -1,71 +1,48 @@
-<h1>I am Mamatkarimov Hasanboy 👨‍🎓></h1>
-<h4>Men Andijon viloyati baliqchi tumanida tugulganman Hozirgi kunda Toshkent axbort texnalogiyalari unversitida 3-bosqich talabasiman 612-21 guruhida o'qiman.Men Dasturlashga juda qiziqaman va ushbu dasturlashlarni biliaman </h4>
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
+<h1><img style="width:45px" src="https://camo.githubusercontent.com/09045978189b7fb1072ccbb1de7fefee922be7eaab347760fb101c77970005c8/68747470733a2f2f632e74656e6f722e636f6d2f534e4c395f78685a6c396f41414141692f776176696e672d68616e642d6a6f79706978656c732e676966" />Hi there, I am Hasanboy Mamatkarimov, Backentd Dev 🚀</h1>
+<h2>ℹ️ About me</h2>
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</br>
-</br>
+Extremely motivated to code. I am confident in my ability to come up with interesting ideas for the development of companies
+Sociable, cheerful, financial book lover, amateur photographer, student of FERGANA BRANCH OF TASHKENT UNIVERSITY OF INFORMATION TECHNOLOGIES NAMED AFTER MUHAMMAD AL-KHWARIZMI, a Backend developer still learning something new.
+
+A programmer since 2019
 
 
+<h2>🎮INTERESTS AND HOBBIES</h2>
 
-# Contact Me :
+I love to travel, I love creativity. I am very interested in programming.
+Programming is everything to me! In my free time I read books on self-development
 
-<p>
- </br>
+![Alt text](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg "a title")
 
+<h2>🧰 Toolbox</h2>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<div style="display:flex;">
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"/>
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
+</div>
 
+<h2>🏃‍♂️ My stats</h2>
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faxridin-kf&show_icons=true&theme=tokyonight)
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
+<h2>🏆 My top langs</h2>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxridin-kf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>🤙 How to reach me</h2>
 
 
+<div style="display:flex; justify-content:space-evenly;">
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+<p><a href="mailto:faxridin-kf@gmail.com">📫 faxridin-kf@gmail.com</a></p>
+<p><a href="tel:+998995300623">☎️ +998 99 530 06 23</a></p>
+<p><a href="https://t.me/faxridin_kf">📠 t.me/faxridin_kf</a></p>
+<p><a href="https://www.instagram.com/faxridin_kf/">📸 instagram.com/faxridin_kf</a></p>
 </div>
