@@ -17,6 +17,7 @@ Programming is everything to me! In my free time I read books on self-developmen
 <h2>🧰 Toolbox</h2>
 
 <div style="display:flex;">
+<img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
