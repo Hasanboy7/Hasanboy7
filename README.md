@@ -31,19 +31,19 @@ Programming is everything to me! In my free time I read books on self-developmen
 
 <h2>🏃‍♂️ My stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faxridin-kf&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanboy-kf&show_icons=true&theme=tokyonight)
 
 <h2>🏆 My top langs</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxridin-kf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanboy-kf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>🤙 How to reach me</h2>
 
 
 <div style="display:flex; justify-content:space-evenly;">
 
-<p><a href="mailto:faxridin-kf@gmail.com">📫 faxridin-kf@gmail.com</a></p>
-<p><a href="tel:+998995300623">☎️ +998 99 530 06 23</a></p>
-<p><a href="https://t.me/faxridin_kf">📠 t.me/faxridin_kf</a></p>
-<p><a href="https://www.instagram.com/faxridin_kf/">📸 instagram.com/faxridin_kf</a></p>
+<p><a href="mailto:hasanboysalom7gmail.com">📫 hasanboysalom7gmail.com</a></p>
+<p><a href="tel:+998936947463">☎️ +998 93 694 74 63</a></p>
+<p><a href="https://t.me/hasanboy_kf">📠 t.me/hasanboy_kf</a></p>
+<p><a href="https://www.instagram.com/hasanboy/">📸 instagram.com/hasanboy</a></p>
 </div>
